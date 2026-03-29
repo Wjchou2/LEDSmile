@@ -9,5 +9,6 @@ I used my falstad circut as reference and copied it into KiCad. I also added the
 <img width="600" alt="Screenshot 2026-03-24 at 5 19 27 PM" src="https://github.com/user-attachments/assets/788cc379-c8bf-40b1-842e-0e8df509905a" />
 <br>
 <br>
-<h2>1.5h - Draw edge.cuts, silkscreen, organized all components and routed them!</h2>
+<h2>1.5h - Finished PCB</h2>
+Drew edge.cuts, silkscreen, organized all components and routed them! For the shape of the board itself I chose a plus shape with rounded edges, giving each LED and the components it needs its own area. I also rounded the corners to make it easier to hold. I placed the corresponding resistors capacitors and transisters next to or around each LED and but the switches/buttons in the center. After starting to route the PCB, I realized I forgot to make some important connections in the schematic, so I went back and updated it. Finally, the buttons in the center looked like 2 eyes so I drew an arc for a smile, giving the PCB some personality!
 <img width="600" alt="Screenshot 2026-03-24 at 5 19 58 PM" src="https://github.com/user-attachments/assets/94205526-ee64-4804-84af-7eeea4f29fc8" />
